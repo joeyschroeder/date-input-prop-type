@@ -8,8 +8,8 @@
 [![Dependency status](https://david-dm.org/joeyschroeder/date-input-prop-type/status.svg)](https://david-dm.org/joeyschroeder/date-input-prop-type/)
 [![devDependency status](https://david-dm.org/joeyschroeder/date-input-prop-type/dev-status.svg)](https://david-dm.org/joeyschroeder/date-input-prop-type/?type=dev)
 
-# Date Input Prop Type
-A React, & React Native `prop-type` to validate the `value`, `min`, and `max` attributes of `<input>` elemenst with `type="date"`.
+# 🌈 Date Input Prop Type
+A React & React Native `prop-type` to validate the `value`, `min`, and `max` attributes of `<input>` elements with `type="date"`.
 
 ## Installation
 `npm install date-input-prop-type --save`
