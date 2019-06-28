@@ -2,7 +2,7 @@
   "name": "date-input-prop-type",
   "version": "0.1.1",
   "description": "A prop type for min, max, and value attributes on input elements of type date.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "eslint": "./node_modules/.bin/eslint src/ && echo \"\\x1b[102m\\x1b[1m ESLINT \\x1b[0m\" No JavaScript ESLint errors to fix",
     "eslint:fix": "./node_modules/.bin/eslint --fix src/ && echo \"\\x1b[102m\\x1b[1m ESLINT \\x1b[0m\" ESLint JavaScript errors fixed",
@@ -19,9 +19,6 @@
     "type": "git",
     "url": "https://github.com/joeyschroeder/date-input-prop-type.git"
   },
-  "files": [
-    "lib/**/*"
-  ],
   "keywords": [
     "date",
     "input",
