@@ -35,20 +35,21 @@
   "license": "MIT",
   "homepage": "https://github.com/joeyschroeder/date-input-prop-type",
   "devDependencies": {
-    "@babel/cli": "7.4.4",
-    "@babel/core": "7.4.5",
-    "@babel/preset-env": "7.4.5",
-    "babel-eslint": "^10.0.2",
-    "babel-jest": "^24.8.0",
+    "@babel/cli": "7.6.0",
+    "@babel/core": "7.6.0",
+    "@babel/preset-env": "7.6.0",
+    "babel-eslint": "^10.0.3",
+    "babel-jest": "^24.9.0",
     "enzyme": "^3.10.0",
-    "eslint": "^6.0.1",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-jest": "^22.7.1",
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-jest": "^22.17.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "jest": "^24.8.0",
+    "generate-changelog": "^1.8.0",
+    "jest": "^24.9.0",
     "prettier": "^1.18.2"
   },
   "peerDependencies": {
-    "react": ">= 15 || >= 16"
+    "react": ">=16"
   }
 }
